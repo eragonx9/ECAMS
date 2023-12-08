@@ -1,0 +1,30 @@
+.containerab{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+  
+  .containerab label {
+    font-weight: 700;
+    font-size: 1rem;
+    color: #f8f5f5;
+  }
+  
+  .containerab input {
+    border-radius: 5px;
+    background: transparent;
+    padding: 10px 15px;
+    color: #000;
+  }
+  
+  .containerab input:hover {
+    border-color: #6a5d5d;
+  }
+  
+  .containerab input:focus {
+    border-color: #454147;
+  }
+
+
+
+
